@@ -1,6 +1,9 @@
-# Приветствую в моем профиле!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<div>
+<h1>Приветствую в моем профиле!</h1>
+<h3>Просмотров my profile: <img src='https://komarev.com/ghpvc/?username=IzmaIs' height='20' width='100'/></h3>
+</div>
 
-<h3>Побежали смотреть статистику по профилю</h3>
+<h3>Побежали смотреть информацию обо мне</h3>
 <div>
 <img src='https://acegif.com/wp-content/uploads/2021/4fh5wi/pepefrg-51.gif' height='50' width='50'/>
 </div>
@@ -27,10 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" **alt="Git" width="60" height="60"/>
-</div>
-
-<div>
-<h3>Просмотров my profile: <img src='https://komarev.com/ghpvc/?username=IzmaIs' height='20' width='100'/></h3>
 </div>
 
 <div>
