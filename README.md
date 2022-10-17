@@ -9,27 +9,17 @@
 </div>
 
 <div>
-  <h3>Используемые мной технологии : </h3>
-  <ul>
-    <li><h2>HTML5/CSS3(SASS,SCSS)</h2> - опыт в старых версиях и опыт применения новых тегов.</li>
-    <li><h2>JS</h2> - <strong>ES5-ES10 </strong>методы массивов, объектов, строк, всё про меня.</li>
-    <li><h2>npm</h2></li>
-    <li><h2>React</h2> - <strong>опыт в коммерческой разработке</strong> и пет проектах.</li>
-    <li><h2>Redux/toolkit</h2> - <strong>опыт в коммерческой разработке</strong> и пет проектах.</li>
-    <li><h2>TypeScript</h2> - описание типов при получении данных с бэка или описание состояний.</li>
-    <li><h2>Графическое приложение(Figma, Ps, paint и тд)</h2> - опыт использования на уровне возможности вырезать картинки.</li>
-  </ul>
+  <h3>Обо мне и чем занимался: </h3>
+  <p>Добро пожаловать, если вы попали сюда, значит вы либо работадатель, либо hh. Помимо пет проектов в моем профиле, я участвовал в коммерческой разработке сайтов.Где использовались такие технологии как: <strong> HTML5, CSS(SASS, SCSS), JS(ES5 - ES10), REACT, REDUX, REDUX TOOLKIT.</strong> Так же была работа в команде с дизанером, который делал макеты в <strong>Figma</strong>, верстальщиком и одним из мозга команды - бэкендером. Для взаимодействия с бэком, использовались <strong>Async</strong> запросы через технологию <strong>REST API</strong>. Так же участвовал в разработке с технологией <strong>SOCKET.io</strong></p>
 </div>
 
 <div>
-  <h3>Стек используемых мной технологий(есть еще, просто нет картинок, по всем вопросам в личные сообщения)</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" **alt="Git" width="60" height="60"/>
+  <h3>Стек используемых мной технологий: </h3>
+  <p>IDE - <strong>WebStorm</strong>.</p>
+  <p>Tools - <strong>Chrome Dev Tools, Postman, Trello, GIT</strong>.</p>
+  <p>Languages: <strong>JavaScript(ES6, ES7, ES8, ES9, ES10), HTML, CSS</strong>.</p>
+  <p>Libraries and framework: <strong>React, Redux, Redux Toolkit</strong>.</p>
+  <p>Other: <strong>REST, SCSS, Prettier, Eslint</strong>.</p>
 </div>
 
 <div>
